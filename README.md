@@ -4,4 +4,7 @@ face_Pose_Estimation:利用opencv/Dlib实现人脸的欧拉角姿态估计
 
 style_transfer_pytorch:利用pytorch实现画风突变
 
-face_dlib:利用Dlib进行人脸检测与标注
+Dlib_face_detect:利用Dlib进行人脸检测与标注
+
+image_evaluate：利用opencv进行人脸图像质量评估
+
